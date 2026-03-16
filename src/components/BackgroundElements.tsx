@@ -68,7 +68,7 @@ export const BackgroundElements = () => {
       {/* Floating Hero Emblems */}
       <span className="material-symbols-outlined absolute text-primary/30 text-6xl animate-float blur-[1px]" style={{ top: '10%', right: '15%' }}>auto_awesome</span>
       <span className="material-symbols-outlined absolute text-secondary/40 text-8xl animate-float-delayed blur-[2px]" style={{ bottom: '30%', left: '10%' }}>auto_awesome</span>
-      <span className="material-symbols-outlined absolute text-accent/20 text-5xl animate-orb-float" style={{ top: '40%', left: '40%' }}>auto_awesome</span>
+      <span className="material-symbols-outlined absolute text-accent/20 text-5xl animate-orb-float" style={{ top: '40%', left: '40%' }}>sparkles</span>
       
       {/* Light Beams from top */}
       <div className="absolute top-0 left-1/4 w-1/2 h-full bg-gradient-to-b from-primary/5 to-transparent skew-x-[-20deg] blur-3xl opacity-30"></div>
