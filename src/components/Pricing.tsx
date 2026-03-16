@@ -14,9 +14,9 @@ export const Pricing = () => {
             <h3 className="text-xl font-black text-white mb-2">Экспресс</h3>
             <div className="text-3xl font-black text-primary mb-10 tracking-tight">15 000 ₸</div>
             <ul className="space-y-5 mb-12 text-white/50 text-sm font-medium">
-              <li className="flex items-center gap-3"><span className="material-symbols-outlined text-primary text-lg">magic_button</span> 1 герой / 15 минут</li>
-              <li className="flex items-center gap-3"><span className="material-symbols-outlined text-primary text-lg">magic_button</span> Музыкальный вынос</li>
-              <li className="flex items-center gap-3"><span className="material-symbols-outlined text-primary text-lg">magic_button</span> Поздравление и фото</li>
+              <li className="flex items-center gap-3"><span className="material-symbols-outlined text-primary text-lg">auto_fix_high</span> 1 герой / 15 минут</li>
+              <li className="flex items-center gap-3"><span className="material-symbols-outlined text-primary text-lg">auto_fix_high</span> Музыкальный вынос</li>
+              <li className="flex items-center gap-3"><span className="material-symbols-outlined text-primary text-lg">auto_fix_high</span> Поздравление и фото</li>
             </ul>
             <button className="w-full py-4 glass-magic text-white hover:text-primary rounded-2xl font-black transition-all border-white/20">Выбрать</button>
           </div>
@@ -40,10 +40,10 @@ export const Pricing = () => {
             <h3 className="text-xl font-black text-white mb-2">Супер</h3>
             <div className="text-3xl font-black text-primary mb-10 tracking-tight">45 000 ₸</div>
             <ul className="space-y-5 mb-12 text-white/50 text-sm font-medium">
-              <li className="flex items-center gap-3"><span className="material-symbols-outlined text-primary text-lg">magic_button</span> 2 героя / 1.5 часа</li>
-              <li className="flex items-center gap-3"><span className="material-symbols-outlined text-primary text-lg">magic_button</span> Шоу мыльных пузырей</li>
-              <li className="flex items-center gap-3"><span className="material-symbols-outlined text-primary text-lg">magic_button</span> Аквагрим для всех</li>
-              <li className="flex items-center gap-3"><span className="material-symbols-outlined text-primary text-lg">magic_button</span> Профи-фотограф</li>
+              <li className="flex items-center gap-3"><span className="material-symbols-outlined text-primary text-lg">auto_fix_high</span> 2 героя / 1.5 часа</li>
+              <li className="flex items-center gap-3"><span className="material-symbols-outlined text-primary text-lg">auto_fix_high</span> Шоу мыльных пузырей</li>
+              <li className="flex items-center gap-3"><span className="material-symbols-outlined text-primary text-lg">auto_fix_high</span> Аквагрим для всех</li>
+              <li className="flex items-center gap-3"><span className="material-symbols-outlined text-primary text-lg">auto_fix_high</span> Профи-фотограф</li>
             </ul>
             <button className="w-full py-4 glass-magic text-white hover:text-primary rounded-2xl font-black transition-all border-white/20">Выбрать</button>
           </div>

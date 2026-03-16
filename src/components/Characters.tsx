@@ -9,7 +9,7 @@ export const Characters = () => {
             <div className="h-1 w-20 bg-primary rounded-full"></div>
           </div>
           <button className="group flex items-center gap-2 font-black text-primary hover:text-white transition-all text-sm uppercase tracking-widest">
-            Весь каталог <span className="material-symbols-outlined group-hover:translate-x-2 transition-transform">magic_button</span>
+            Весь каталог <span className="material-symbols-outlined group-hover:translate-x-2 transition-transform">auto_fix_high</span>
           </button>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12">
