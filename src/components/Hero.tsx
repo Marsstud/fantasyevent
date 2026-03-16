@@ -32,7 +32,7 @@ export const Hero = () => {
             <div className="absolute inset-0 bg-primary/20 blur-[60px] rounded-full scale-75 group-hover:scale-100 transition-transform duration-1000 opacity-60"></div>
             
             <div className="relative rounded-[3rem] overflow-hidden shadow-[0_0_80px_rgba(124,58,237,0.4)] rotate-2 group-hover:rotate-0 transition-all duration-1000 aspect-[4/5] border-4 border-white/10 group-hover:border-primary/40">
-              <img alt="Fantasy Event Hero" className="w-full h-full object-cover scale-110 group-hover:scale-100 transition-transform duration-1000" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBGA8URI4doFI-uLhYf2Ur9eI_fRv6NE2_MynahXWgH_ACRqKlLUE4ylS_SeNMUlP2eXjt-G4rEtk2fo2sxw9Yh9TCGIRtFZazcdxJjC3SFCFLJ0IKE2M_v3M7l8tNOnld4TLUG-zZXOJF0YNVuvciaaGUE6D5ck7FgMuNWQG40d_yWtLILkuqk6kyvSpbZBMgCy8pb0p1OitiDzVwoVgLQtOHHMXvOeSPN4pQ6fPIGxljojz1HeV6xLg-XQqQZHALZVbyIawy1fPdw" />
+              <img alt="Fantasy Event Hero" className="w-full h-full object-cover scale-110 group-hover:scale-100 transition-transform duration-1000" src="/assets/hero_magic.png" />
               <div className="absolute inset-0 bg-gradient-to-t from-magic-deep/60 via-transparent to-primary/10 opacity-60"></div>
             </div>
             

@@ -27,7 +27,7 @@ export const Characters = () => {
           {/* Character Card 2 - Spider-Man */}
           <div className="group card-magical p-6 rounded-[2.5rem] border border-primary/30 bg-primary/5">
             <div className="aspect-square relative rounded-[2rem] overflow-hidden mb-8 bg-magic-deep">
-              <img alt="Spider-Man" className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAcdvwf17vEvVUDmz67knS0rphEtg5H7uZdpdh6oFjNBucckjvdtEpzbNWBhi9WUUTL0NPobGScGBpWc4BWE9cAJVJDr-MYQEztafmnIJMRWFAUvrkG9yaeUfna-P0siFKGJfaLi6YigWITaYhrdrz0JKeaxTqNQcP38RCX9F_sydJvoeoHGsxhcUgFCtcueoxZe8Fyg3eLLaDKFltvyv98qNpdER3kTgxM0GNP9hwuYZBZU_I4YMnw3N_KMT8wmKRVYvVz3TleIrSc" />
+              <img alt="Spider-Man" className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110" src="/assets/char_spiderman.png" />
               <div className="absolute inset-0 bg-gradient-to-t from-magic-deep/80 to-transparent"></div>
               <div className="absolute top-4 left-4 bg-primary text-magic-deep px-5 py-2 rounded-full text-[10px] font-black uppercase tracking-[0.15em] shadow-lg shadow-primary/20">Супергерой 🕸️</div>
             </div>
@@ -38,7 +38,7 @@ export const Characters = () => {
           {/* Character Card 3 - Mickey Mouse */}
           <div className="group card-magical p-6 rounded-[2.5rem] border border-white/5 hover:border-primary/40">
             <div className="aspect-square relative rounded-[2rem] overflow-hidden mb-8 bg-magic-deep">
-              <img alt="Mickey Mouse" className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCdqyi_o2xqZrracB560niTXsapWjHwFAoht6ywANSqM-CWL1xnBYXouhoqrxttydUDvq5HdZhl7imKqeHgGh_hZijbfhiy1grdKgFRgYLQDxs3pnVT2QyNtpu4puXeka3jc4hv_e7UsS7Rpyl09ZO3Dw5iPa8-f_YNK8DagT5CF24aV0CRdLDG5dtH76xiG8ZEKwsAewkfcS-QmKgln9lGHa3cPJN61RTn4ybyr5ftgyzCILluRq24OXvYeZc-Ey3RHX5jAU5BbIXY" />
+              <img alt="Mickey Mouse" className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110" src="/assets/char_mickey.png" />
               <div className="absolute inset-0 bg-gradient-to-t from-magic-deep/80 to-transparent"></div>
               <div className="absolute top-4 left-4 glass-magic px-5 py-2 rounded-full text-[10px] font-black text-primary uppercase tracking-[0.15em] border-primary/30">Классика 🎈</div>
             </div>
