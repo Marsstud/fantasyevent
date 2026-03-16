@@ -15,7 +15,7 @@ export const Hero = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-5 justify-center lg:justify-start">
             <a className="bg-primary hover:bg-white text-magic-deep font-black px-10 py-5 rounded-2xl text-lg transition-all flex items-center justify-center gap-3 cta-glow group" href="#characters">
-              Выбрать героя <span className="material-symbols-outlined group-hover:rotate-45 transition-transform">auto_fix_high</span>
+              Выбрать героя <span className="material-symbols-outlined group-hover:rotate-45 transition-transform">auto_awesome</span>
             </a>
             <a className="glass-magic hover:bg-white/10 text-white font-black px-10 py-5 rounded-2xl text-lg transition-all flex items-center justify-center border border-white/20" href="#prices">
               Прайс-лист

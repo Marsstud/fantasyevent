@@ -5,7 +5,7 @@ export const Header = () => {
       <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
         <div className="flex items-center gap-3">
           <div className="bg-primary p-2.5 rounded-2xl text-magic-deep shadow-lg shadow-primary/20 group cursor-pointer">
-            <span className="material-symbols-outlined text-3xl group-hover:rotate-[360deg] transition-transform duration-700">auto_fix_high</span>
+            <span className="material-symbols-outlined text-3xl group-hover:rotate-[360deg] transition-transform duration-700">celebration</span>
           </div>
           <div>
             <h1 className="font-black text-2xl tracking-tight text-white leading-none">Fantasy Event</h1>

@@ -9,7 +9,7 @@ export const LeadForm = () => {
           {/* Magic Decor */}
           <div className="absolute inset-0 pointer-events-none opacity-10">
             <span className="material-symbols-outlined absolute top-10 left-10 rotate-12 text-9xl">celebration</span>
-            <span className="material-symbols-outlined absolute bottom-10 right-10 -rotate-12 text-9xl">auto_fix_high</span>
+            <span className="material-symbols-outlined absolute bottom-10 right-10 -rotate-12 text-9xl">auto_awesome</span>
           </div>
           <div className="grid lg:grid-cols-2 gap-24 items-center relative z-10">
             <div>
@@ -57,7 +57,7 @@ export const LeadForm = () => {
         <div className="flex flex-col md:flex-row justify-between items-center gap-12 border-t border-white/10 pt-16">
           <div className="flex items-center gap-4">
             <div className="bg-primary/20 p-3 rounded-2xl text-primary border border-primary/30">
-              <span className="material-symbols-outlined text-3xl">auto_fix_high</span>
+              <span className="material-symbols-outlined text-3xl">auto_awesome</span>
             </div>
             <div>
               <span className="font-black text-2xl text-white tracking-tight">Fantasy Event</span>
